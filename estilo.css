@@ -1,0 +1,24 @@
+* {
+    font-family: sans-serif;
+}
+
+body {
+    width: 90%;
+    margin: 0 auto;
+    background-color: #EFEFEF;
+}
+
+#cabeçalho{
+    text-align: center;
+    font-weight: bold;
+}
+
+#img_cabeçalho{
+    display: block;
+    align-self: center;
+    margin: 20px auto;
+}
+
+footer {
+    background-color: #EFEFEF;
+}
